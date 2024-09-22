@@ -1,4 +1,4 @@
-package com.trak.app.ui.theme
+package com.avicenna.trak.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

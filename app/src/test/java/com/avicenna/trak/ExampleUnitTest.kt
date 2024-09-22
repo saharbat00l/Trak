@@ -1,4 +1,4 @@
-package com.trak.app
+package com.avicenna.trak
 
 import org.junit.Test
 

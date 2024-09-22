@@ -43,4 +43,7 @@ dependencies {
     implementation(projects.core.domain)
     implementation(projects.core.database)
     implementation(projects.run.domain)
+    implementation(libs.androidx.monitor)
+    implementation(libs.androidx.junit.ktx)
+    androidTestImplementation(libs.junit.junit)
 }
